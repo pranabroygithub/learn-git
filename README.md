@@ -1,3 +1,3 @@
 # learn-git
-This is lcoal changr done by pranab
-
+change from github (first)
+This is local change done by pranab (after)
